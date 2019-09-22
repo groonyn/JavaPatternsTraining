@@ -1,8 +1,7 @@
-package com.grunin.training;
+package com.grunin.training.patterns.abstract_factory;
 
-import com.grunin.training.patterns.abstract_factory.MyClientApplication;
-import com.grunin.training.patterns.abstract_factory.factory_impl.MacOSFactory;
-import com.grunin.training.patterns.abstract_factory.factory_impl.WinFactory;
+import com.grunin.training.patterns.abstract_factory.implementations.MacOSFactory;
+import com.grunin.training.patterns.abstract_factory.implementations.WinFactory;
 import com.grunin.training.patterns.abstract_factory.interfaces.GUIFactory;
 
 import java.util.Scanner;

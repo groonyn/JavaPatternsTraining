@@ -1,4 +1,4 @@
-package com.grunin.training.patterns.abstract_factory.elements_of_factory_impl.win;
+package com.grunin.training.patterns.abstract_factory.implementations.elements_of_factory_implementations.win;
 
 import com.grunin.training.patterns.abstract_factory.interfaces.Button;
 

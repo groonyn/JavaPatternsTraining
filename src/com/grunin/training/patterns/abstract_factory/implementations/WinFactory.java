@@ -1,7 +1,7 @@
-package com.grunin.training.patterns.abstract_factory.factory_impl;
+package com.grunin.training.patterns.abstract_factory.implementations;
 
-import com.grunin.training.patterns.abstract_factory.elements_of_factory_impl.win.WinButton;
-import com.grunin.training.patterns.abstract_factory.elements_of_factory_impl.win.WinCheckbox;
+import com.grunin.training.patterns.abstract_factory.implementations.elements_of_factory_implementations.win.WinButton;
+import com.grunin.training.patterns.abstract_factory.implementations.elements_of_factory_implementations.win.WinCheckbox;
 import com.grunin.training.patterns.abstract_factory.interfaces.Button;
 import com.grunin.training.patterns.abstract_factory.interfaces.Checkbox;
 import com.grunin.training.patterns.abstract_factory.interfaces.GUIFactory;
